@@ -19,7 +19,7 @@
 				<option>Divide</option>
 			</select>
 			<br>
-			<button name= "submit" value = "submit" type = "submit">Calculate</button>
+			<button name= "submit" value = "submit" type = "submit">Calculateeeeee</button>
 
 
 
