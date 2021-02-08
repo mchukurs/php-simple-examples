@@ -1,0 +1,2 @@
+Setup a local server in order to serve the PHP. (PHP is executed on the server side so you need to install the server)
+I used XAMPP. 
